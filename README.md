@@ -1,4 +1,4 @@
-# express-todos
+# Todos API using Node, Express
 
 Use this as a starter app for express API
 
